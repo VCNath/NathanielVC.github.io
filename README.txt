@@ -1,5 +1,5 @@
 Prologue by HTML5 UP
-Modified by Nathaniel VArga-Chauvin
+Modified by Nathaniel Varga-Chauvin
 
 This is my personal website, a simple and responsive site built using the Prologue template. It showcases my work and provides information about me.
 
